@@ -8,6 +8,7 @@
     },
     "types": ["./worker-configuration.d.ts", "node"]
   },
+  "exclude": ["src/components/GtmScript.astro"],
   "extends": "astro/tsconfigs/strictest",
   "include": [
     "__tests__",
