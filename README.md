@@ -1,9 +1,6 @@
-# Astro 5 Starter
+# Google Analytics 4 Demo
 
-This starter repository facilitates the creation of new Astro projects using the configuration described below.
-
-To learn how to use a GitHub template repository, check
-out [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+This minimal demo project simply uses two Astro components (`GtmScript` and `GtmNoScript`) to add [Google Tag Manager (GTM)](https://tagmanager.google.com) to an Astro site hosted on Cloudflare Workers. Adding [Google Analytics 4 (GA4)](https://analytics.google.com) requires no code changes, just configuration in the GTM web interface.
 
 ![project status](https://img.shields.io/badge/project_status-active-success?style=for-the-badge)
 [![live site](https://img.shields.io/badge/live_site-blue?style=for-the-badge)](https://ga4-demo.mail-25a.workers.dev/)
